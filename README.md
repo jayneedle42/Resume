@@ -12,7 +12,8 @@ Recent cybersecurity graduate with hands-on experience in Network Security and P
 
 ## Professional Experience
 
-Ben & Jay’s, LLC. (TheDabLab.com) – Pacifica, CA Co-Founder / CTO – September 2011 - Present
+Ben & Jay’s, LLC. (TheDabLab.com) – Pacifica, CA - Co-Founder / CTO – September 2011 - Present
+
 As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and manage multiple aspects of the business, blending technology, strategy, and operations:
 
 - Technology & Web Development: Lead the design, development, and maintenance of the website and e-commerce platform, ensuring optimal user experience and robust security.
