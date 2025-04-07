@@ -4,8 +4,7 @@ Recent cybersecurity graduate with hands-on experience in Network Security and P
 
 ## Education & Certifications
 
-- Bachelor of Science (BS) in Cybersecurity and Information Assurance (CIA)
-Western Governors University, Graduated March 2025
+- Bachelor of Science (BS) in Cybersecurity and Information Assurance (CIA) from Western Governors University, Graduated March 2025
 
 - CompTIA Network+, Security+, Pentest+, CySA+ – Issued 2025 (Credential ID: COMP001022382548)
 
