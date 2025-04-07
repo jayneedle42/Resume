@@ -6,7 +6,7 @@ Recent cybersecurity graduate with hands-on experience in Network Security and P
 
 - Bachelor of Science (BS) in Cybersecurity and Information Assurance (CIA) from Western Governors University, Graduated March 2025
 
-- CompTIA Network+, Security+, Pentest+, CySA+ – Issued 2025 (Credential ID: COMP001022382548)
+- CompTIA Network+, Security+, Pentest+, CySA+ – Issued 2024-2025 (Credential ID: COMP001022382548)
 
 - Linux Professional Institute (LPI) Linux Essentials (LE-1) – Issued 2024 (Credential ID: LPI000617820)
 
