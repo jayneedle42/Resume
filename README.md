@@ -32,7 +32,7 @@ As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and man
 
 ## Skills
 
-- Linux Commands & Scripting
+- BASH
 - Powershell
 - Network Security
 - Threat & Alert Analysis
