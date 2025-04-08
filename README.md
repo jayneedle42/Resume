@@ -28,7 +28,7 @@ As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and man
 - Configured virtual machines (VMs) using UTM on a Mac Mini (M2 chip), including Windows 11, Kali Linux, and Metasploitable, to simulate vulnerable environments for hands-on cybersecurity experience.
 - OverTheWire Wargames
   - [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt)
-- [GitHub Here](GitHub.com/jayneedle42)
+- [GitHub Here](https://GitHub.com/jayneedle42)
 
 ## Skills
 
