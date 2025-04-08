@@ -27,7 +27,7 @@ As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and man
 - I built a virtual Network featuring subnetting using VLANS, remote access using SSH and VPN, telecommunications using VOIP, IP assignment using DHCP, and IP aliases using DNS. 
 - Configured virtual machines (VMs) using UTM on a Mac Mini (M2 chip), including Windows 11, Kali Linux, and Metasploitable, to simulate vulnerable environments for hands-on cybersecurity experience.
 - OverTheWire Wargames
-  - Bandit 31/33 (In Progress)
+  - Bandit Level 0-33
 - GitHub.com/jayneedle42
 
 ## Skills
