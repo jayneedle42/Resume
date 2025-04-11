@@ -30,7 +30,7 @@ As Co-Founder and CTO, I lead and manage multiple aspects of the business. Below
 
 - Manage system updates, software patching, and password policies across internal business infrastructure, contributing to a more secure operating environment.
 
-- Design and maintain internal network topology for efficient, reliable, and secure operations (utilize WPA3, router and host-based Firewalls, Norton Anti-virus, and disabled WPS) 
+- Design and maintain internal network topology for efficient, reliable, and secure operations (utilize WPA3, router and host-based Firewalls, Anti-virus software, and disabled WPS) 
 
 - Maintain OS X and Windows-based systems, with experience troubleshooting system errors and user-level access issues.
 
