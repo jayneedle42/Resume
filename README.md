@@ -42,4 +42,4 @@ As Co-Founder and CTO, I lead and manage multiple aspects of the business. Below
 
 - [Network Design](https://github.com/jayneedle42/Networking-Projects): Designed segmented virtual networks using VLANs, configured VPN/SSH for remote access, and implemented DHCP/DNS for dynamic IP management.
 
-- CTF Progress: Completed [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt) on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through [Natas Wargames](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Natas.txt). 
+- [CTF Progress](https://github.com/jayneedle42/CTF-Challenges): Completed Bandit Level 0-33 on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through Natas Wargames. 
