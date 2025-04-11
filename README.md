@@ -42,4 +42,4 @@ As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and man
 
 - [Network Design](https://github.com/jayneedle42/Networking-Projects): Designed segmented virtual networks using VLANs, configured VPN/SSH for remote access, and implemented DHCP/DNS for dynamic IP management.
 
-- CTF Progress: Completed [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt) on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through Natas Wargames. 
+- CTF Progress: Completed [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt) on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through [Natas Wargames](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Natas.txt). 
