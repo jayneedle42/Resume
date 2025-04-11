@@ -40,6 +40,6 @@ As Co-Founder and Chief Technology Officer at Ben & Jay’s LLC., I lead and man
 
 - Home Lab: Built and maintained a virtual cybersecurity lab using UTM on Mac Mini (M2), deploying Kali Linux, Metasploitable, and Windows 11. Performed real-world testing with Nmap, Nessus, and Metasploit.
 
-[Network Design](https://github.com/jayneedle42/Networking-Projects): Designed segmented virtual networks using VLANs, configured VPN/SSH for remote access, and implemented DHCP/DNS for dynamic IP management.
+- [Network Design](https://github.com/jayneedle42/Networking-Projects): Designed segmented virtual networks using VLANs, configured VPN/SSH for remote access, and implemented DHCP/DNS for dynamic IP management.
 
-CTF Progress: Completed [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt) on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through Natas Wargames. 
+- CTF Progress: Completed [Bandit Level 0-33](https://github.com/jayneedle42/CTF-Challenges/blob/main/OTW-Bandit.txt) on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through Natas Wargames. 
