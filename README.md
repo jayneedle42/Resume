@@ -45,3 +45,5 @@ As Co-Founder and CTO, I lead and manage multiple aspects of the business. Below
 - [CTF Progress](https://github.com/jayneedle42/CTF-Challenges): Completed Bandit Level 0-33 on OverTheWire wargames, demonstrating scripting, enumeration, and privilege escalation skills. Currently working through Natas Wargames.
 
 - [LetsDefend Profile](https://app.letsdefend.io/user/jayneedle42): Hands-on practice with a Ticket System and SIEM. Soc Analyst and Incident Response training.
+
+- [DON'T GET PWNED](https://dontgetpwned.wordpress.com/): This is a Cybersecurity Blog I recently started that features tutorials and walk-throughs for challenges and labs like OvertheWire and LetsDefend. 
